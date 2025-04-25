@@ -15,7 +15,8 @@ def load_known_faces():
     face_data = [
         {"name": "Prabhas", "file": "D:/new/AI Based Attendance System/photos/Prabhas.jpg"},
         {"name": "Kiran", "file": "D:/new/AI Based Attendance System/photos/Kiran.jpg"},
-        {"name": "Rashmika Mandanna", "file": "D:/new/AI Based Attendance System/photos/Rashmika-Mandanna.jpg"}
+        {"name": "Rashmika Mandanna", "file": "D:/new/AI Based Attendance System/photos/Rashmika-Mandanna.jpg"},
+        {"name": "Kajal Aggarwal", "file": "D:/new/AI Based Attendance System/photos/Kajal-Aggarwal.jpg"}
     ]
     
     for person in face_data:
